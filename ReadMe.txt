@@ -1,0 +1,1 @@
+The study is about analysing two datasets - Amabulance incidents and ADAS, ADS incidents and running Multi class Logistic regression.
